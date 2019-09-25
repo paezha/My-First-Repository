@@ -14,3 +14,7 @@ Now that I have cloned this, I have a local version of the project, including al
 # Second step, sync with remote repository
 
 I am now going to commit this
+
+# Third step, remote changes that need to be sync in my personal computer
+
+I made more changes!
